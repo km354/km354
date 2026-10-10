@@ -9,3 +9,5 @@ My most recent project, VaultPay, is an AWS platform defined entirely was terraf
 
 **Working with:** AWS, Terraform, Linux, Docker
 
+**Connect:** https://www.linkedin.com/in/kaden-mayberry-519479271/
+
